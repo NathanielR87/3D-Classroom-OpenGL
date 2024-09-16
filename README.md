@@ -26,6 +26,9 @@ arrow keys  will change view angles
   arrows:Change view angle
   0:Reset view angle
   ESC:Exit
+
+
+Below are some screen shots of what it looks like. 
   
 <img width="834" alt="Screenshot 2024-09-16 at 3 38 08 PM" src="https://github.com/user-attachments/assets/5c94fdd0-c84a-49e1-89e6-37b3dd87b06e">
 <img width="839" alt="Screenshot 2024-09-16 at 3 38 21 PM" src="https://github.com/user-attachments/assets/8a208a75-0440-4a7c-8ba3-84bfca1e2e12">
