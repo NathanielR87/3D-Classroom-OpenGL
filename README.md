@@ -5,12 +5,10 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-Computer%20Graphics-blue)
 ![Language](https://img.shields.io/badge/Language-C-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
  
 <img width="834" alt="Screenshot 2024-09-16 at 3 38 08 PM" src="https://github.com/user-attachments/assets/5c94fdd0-c84a-49e1-89e6-37b3dd87b06e">
-<img width="839" alt="Screenshot 2024-09-16 at 3 38 21 PM" src="https://github.com/user-attachments/assets/8a208a75-0440-4a7c-8ba3-84bfca1e2e12">
-<img width="835" alt="Screenshot 2024-09-16 at 3 38 39 PM" src="https://github.com/user-attachments/assets/67fa6984-f584-4e2a-99ef-22946caa63fa">
+---
+
 # Overview
 
 This project began as a computer graphics course project but evolved into something much larger.
@@ -26,6 +24,8 @@ Although the research ultimately followed a different direction, the project bec
 I wanted to better understand how modern graphics engines work by building a 3D environment directly with OpenGL rather than relying on a game engine such as Unity.
 
 Developing the rendering pipeline myself provided a much deeper understanding of the mathematics, rendering techniques, and engineering principles behind real-time graphics.
+
+<img width="839" alt="Screenshot 2024-09-16 at 3 38 21 PM" src="https://github.com/user-attachments/assets/8a208a75-0440-4a7c-8ba3-84bfca1e2e12">
 
 ---
 
@@ -70,6 +70,9 @@ Unlike Unity or other game engines, OpenGL requires developers to manually confi
 all interact to produce realistic rendering.
 
 Building these systems manually significantly improved my understanding of modern graphics programming.
+
+<img width="835" alt="Screenshot 2024-09-16 at 3 38 39 PM" src="https://github.com/user-attachments/assets/67fa6984-f584-4e2a-99ef-22946caa63fa">
+
 
 ---
 
