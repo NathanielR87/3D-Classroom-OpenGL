@@ -11,8 +11,7 @@
 
 # Overview
 
-This project began as a computer graphics course project but evolved into something much larger.
-
+Originally developed as part of a computer graphics course, this project evolved into an exploration of scientific visualization and real-time rendering.
 While developing the simulation, I proposed using it as an interactive visualization platform for my environmental health research. My goal was to create a virtual classroom capable of demonstrating how portable HEPA filtration systems influence airflow and carbon dioxide (CO₂) distribution inside occupied learning spaces.
 
 Although the research ultimately followed a different direction, the project became an opportunity to deepen my understanding of computer graphics while exploring how interactive visualization can improve scientific communication.
@@ -197,3 +196,11 @@ Building intelligent, interactive, and data-driven systems.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nathaniel-ramirez-/
 - 💻 GitHub: https://github.com/NathanielR87
+
+---
+
+## Project Status
+
+✅ Completed
+
+This project is no longer under active development but remains an important milestone in my exploration of computer graphics and scientific visualization.
